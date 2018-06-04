@@ -7,29 +7,20 @@ using Microsoft.AspNetCore.Http;
 
 namespace SqliteFromScratch.Models
 {
-    // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
+    
     public class Track
     {
-        private readonly RequestDelegate _next;
+		public int Id { get; set; }
+		public string Name { get; set; }
+		public int? AlbumId { get; set; }
+		public int MediaTypeId { get; set; }
+		public int? GenreId { get; set; }
+		public string Composer { get; set; }
+		public int Milliseconds { get; set; }
+		public int? Bytes { get; set; }
+		public int UnitPrice { get; set; }
 
-        public Track(RequestDelegate next)
-        {
-            _next = next;
-        }
-
-        public Task Invoke(HttpContext httpContext)
-        {
-
-            return _next(httpContext);
-        }
     }
 
-    // Extension method used to add the middleware to the HTTP request pipeline.
-    public static class TrackExtensions
-    {
-        public static IApplicationBuilder UseMiddlewareClassTemplate(this IApplicationBuilder builder)
-        {
-            return builder.UseMiddleware<Track>();
-        }
-    }
+    
 }
