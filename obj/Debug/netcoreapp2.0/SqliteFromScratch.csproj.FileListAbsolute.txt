@@ -1,0 +1,11 @@
+/Users/loudelat/Projects/SqliteFromScratch/bin/Debug/netcoreapp2.0/SqliteFromScratch.deps.json
+/Users/loudelat/Projects/SqliteFromScratch/bin/Debug/netcoreapp2.0/SqliteFromScratch.runtimeconfig.json
+/Users/loudelat/Projects/SqliteFromScratch/bin/Debug/netcoreapp2.0/SqliteFromScratch.runtimeconfig.dev.json
+/Users/loudelat/Projects/SqliteFromScratch/bin/Debug/netcoreapp2.0/SqliteFromScratch.dll
+/Users/loudelat/Projects/SqliteFromScratch/bin/Debug/netcoreapp2.0/SqliteFromScratch.pdb
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.csprojResolveAssemblyReference.cache
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.csproj.CoreCompileInputs.cache
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.AssemblyInfoInputs.cache
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.AssemblyInfo.cs
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.dll
+/Users/loudelat/Projects/SqliteFromScratch/obj/Debug/netcoreapp2.0/SqliteFromScratch.pdb
